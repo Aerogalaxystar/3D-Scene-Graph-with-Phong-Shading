@@ -1,0 +1,7 @@
+﻿  Sphere.cpp
+C:\Users\HP\Desktop\Graphics Projects\Repos\RenderSG\RenderSG\Sphere.cpp(184,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\HP\Desktop\Graphics Projects\Repos\RenderSG\RenderSG\Sphere.cpp(239,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\HP\Desktop\Graphics Projects\Repos\RenderSG\RenderSG\Sphere.cpp(293,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\HP\Desktop\Graphics Projects\Repos\RenderSG\RenderSG\Sphere.cpp(347,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\HP\Desktop\Graphics Projects\Repos\RenderSG\RenderSG\Sphere.cpp(455,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  RenderSG.vcxproj -> C:\Users\HP\Desktop\Graphics Projects\Repos\RenderSG\x64\Debug\RenderSG.exe
