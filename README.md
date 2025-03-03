@@ -6,3 +6,8 @@ Render Scene Graph was Created to learn storing objects in the Graph based Data 
 
 https://github.com/user-attachments/assets/9038304e-a40f-432e-a204-56fb0ebf313b
 
+## Dependencies
+.GLM
+.GLFW
+.GLEW
+
